@@ -1,0 +1,8 @@
+//
+// Created by user on 24/08/2018.
+//
+
+#ifndef CONVERSIONESLOGICO_TEST_H
+#define CONVERSIONESLOGICO_TEST_H
+
+#endif //CONVERSIONESLOGICO_TEST_H
